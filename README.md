@@ -7,4 +7,4 @@ The **Power Control Problem** is a well-known problem in wireless communication 
 This problem can be solved using the **Lagrangian Method**, a mathematical optimization technique that allows us to incorporate constraints (such as the minimum SIR for each user) into the objective function.
 
 <img width="824" alt="image" src="https://github.com/user-attachments/assets/5b4bc7c1-5ff8-4c0a-a97d-a7dbde7dbe00" />
-
+<img width="824" alt="image" src="https://github.com/user-attachments/assets/02d93a2a-074f-4718-a240-577d17c3314a" />
