@@ -1,6 +1,47 @@
 # Solving the Power Control Problem Using the Lagrangian Method
-
-## Problem Overview
+L= 
+i=1
+∑
+N
+​
+ p 
+i
+​
+ + 
+i=1
+∑
+N
+​
+ λ 
+i
+​
+ ( 
+∑ 
+j
+
+=i
+​
+ g 
+ij
+​
+ p 
+j
+​
+ +σ 
+2
+ 
+g 
+ii
+​
+ p 
+i
+​
+ 
+​
+ −γ 
+i
+​
+ )## Problem Overview
 
 The **Power Control Problem** is a well-known problem in wireless communication systems, where the objective is to optimize the transmission power levels for each user in a network. The goal is to ensure efficient use of power while meeting specific performance requirements, such as Signal-to-Interference Ratio (SIR) and quality of service (QoS) constraints. The problem is commonly encountered in systems like cellular networks, where users' transmissions interfere with one another.
 
